@@ -13,5 +13,5 @@ $rm h3.6m.zip
 
 $ cd ..
 
-""Load the h3.6m dataset"
+**Load the h3.6m dataset**
 $ python main.py
